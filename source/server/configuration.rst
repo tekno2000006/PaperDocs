@@ -148,7 +148,7 @@ unsupported-settings
       This includes bedrock, end portal frames, end portal blocks, and more.
 
 * allow-piston-duplication
-    - **default**: false
+    - **default**: true
     - **description**: If set to true, will allow duplication of TNT,
       carpets and rails. Introduced in 1.15.2, build #358.
 
